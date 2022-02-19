@@ -1,0 +1,12 @@
+.rule-book{
+    color: var(--card-text-color);
+    margin: 2rem auto;
+    width: 40rem;
+    background-color:var(--card-bg-color);
+    padding: 1rem;
+}
+
+.rule-text{
+    font-weight: 500;
+    margin-top: 1rem;
+}
