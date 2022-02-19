@@ -1,0 +1,42 @@
+.main-wrapper {
+    background-color: rgb(12, 12, 12);
+    color: #a3a3a3;
+    width: 50rem;
+    height: 32rem;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.question-counter {
+    margin: 1.5rem;
+    margin-right: 15rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.question {
+    margin: 2rem auto;
+    font-size: 1.1rem;
+    width: 60ch;
+    line-height: 1.6rem;
+}
+
+.alert {
+    padding: 0;
+    height: 4rem;
+    width: 30rem;
+    margin: 1rem auto;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+.alert-options {
+    background-color: rgb(37, 34, 34);
+}
+
+.result {
+    height: 50rem;
+}
