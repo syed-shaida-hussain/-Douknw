@@ -46,3 +46,8 @@ body {
 .result {
     height: 50rem;
 }
+
+.result-link-container{
+    text-align: center;
+    margin-bottom: 2rem;
+}
